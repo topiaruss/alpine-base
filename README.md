@@ -1,5 +1,5 @@
 # base docker
-My personal base docker
+gchiam/base: My personal base docker
 
 Docker Hub: https://hub.docker.com/r/gchiam/base/
 
