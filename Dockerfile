@@ -1,6 +1,7 @@
-FROM alpine:3.2
+FROM alpine:3.3
 
-MAINTAINER Gordoon Chiam <gordon.chiam@gmail.com>
+# based on image from Gordoon Chiam <gordon.chiam@gmail.com>
+MAINTAINER Russ Ferriday <russf@topia.com>
 
 RUN mkdir /root/.ssh && echo > /root/.ssh/authorized_keys
 
