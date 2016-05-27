@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:edge
 
 # based on image from Gordoon Chiam <gordon.chiam@gmail.com>
 MAINTAINER Russ Ferriday <russf@topia.com>
